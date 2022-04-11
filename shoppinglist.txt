@@ -4,3 +4,7 @@ bananas
 carrots
 milk
 Sugar
+Peas
+Potato
+Onions
+Lettuce
