@@ -1,6 +1,6 @@
 Apple
 oranges
 bananas
-cherries
 carrots
 milk
+Sugar
